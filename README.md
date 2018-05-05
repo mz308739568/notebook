@@ -8,8 +8,8 @@ github 资源汇总手册,大纲
 
 
 ## 手脚架项目
-- [基于Spring Boot & MyBatis的种子项目](https://github.com/java-frame/spring-boot-api-project-seed)
-- [基于mybatis plus](https://github.com/java-frame/mybatis-plus)
+- [基于Spring Boot & MyBatis的种子项目](https://github.com/java-frame/spring-boot-api-project-seed) spring boot +mybatis 手脚架项目,简单易用
+- [基于mybatis plus](https://github.com/java-frame/mybatisplus-boot-starter) spring boot +mybatis plus 手脚架项目
 - [我的 springmybatis](https://github.com/javastar920905/springmybatis) spring mvc+mabatis based on gradle! 单体应用,同时也是ssm-repository的基础版
 - [ssm-repository](https://github.com/javastar920905/ssm-repository) 这是spring mvc+mybatis的手脚架项目 使用motan 作为rpc框架
 
