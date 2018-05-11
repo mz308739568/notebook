@@ -24,7 +24,7 @@ github 资源汇总手册,大纲  欢迎参与编辑,fork
 - [机器学习资源大全中文版](https://github.com/jobbole/awesome-machine-learning-cn)，包括机器学习领域的框架、库以及软件
 - [实用的计算机相关技术书籍](https://github.com/EZLippi/practical-programming-books) 短期之内入门的简单实用教程、一些技术网站以及一些写的比较好的博文
 - [Github上整理的日常发现的好资源](https://www.jianshu.com/p/73df789e8710) 来自简书
-
+#### 路线图,图谱
 - [后端架构师图谱](https://github.com/xingshaocheng/architect-awesome)后端架构师技术图谱
 - [web开发路线图-2018](https://github.com/kamranahmedse/developer-roadmap) 分前端,后端,DevOps
 - [开发常用参考和学习文档](https://github.com/qibaoguang/Study-Step-by-Step) 譬如:java戏法,Guava,并发
@@ -47,6 +47,8 @@ github 资源汇总手册,大纲  欢迎参与编辑,fork
 - [CSS 资源大全中文版](https://github.com/jobbole/awesome-css-cn) 内容包括：CSS预处理器、框架、CSS结构、代码风格指南、命名习惯等等
 - [设计师资源大全](https://github.com/jobbole/awesome-design-cn) 包含：ICON图标、Logo设计、PhotoShop插件、交互设计工具、流程图、线框图/原型图、设计博客等
 - [《我的职业是前端工程师》](https://github.com/phodal/fe)以个人视角来看前端领域的各种技术。整个系列的文章大概有 15 篇左右，从我是如何成为一个前端工程师，到各种前端框架的知识。
+
+
 ## sdk查找
 - [我的有道云笔记汇总大全](https://note.youdao.com/share/?id=bd5f95a1a22de561c3fcaef99b501d5c&type=note#/)
 - [processon 脑图资源](https://www.processon.com/mindmap/596083b6e4b0a77c5aeb998d)
@@ -56,9 +58,7 @@ github 资源汇总手册,大纲  欢迎参与编辑,fork
 - [sdk.cn](https://sdk.cn/)
 - [java 开源软件大全](http://man.lupaworld.com/content/develop/open-open/open86025.htm)
 - [码云](https://gitee.com/explore/starred/utils)
-
-
-## 推荐sdk/api
+#### 推荐sdk/api
 - [常用java库一览](http://www.importnew.com/7530.html) java sdk,Apache Commons Lang,Google Guava
 - [Hutool](http://www.hutool.cn/) Hutool是一个Java工具包，也只是一个工具包
 - [怒学Java8系列一:Lambda表达式](http://www.cnblogs.com/WJ5888/p/4618465.html)
