@@ -4,7 +4,7 @@ github 资源汇总手册,大纲
 ## 常用开发工具
 - [javabus.cn](http://javabus.cn/) 个人准备用的博客和工具网站,写博客太麻烦很难坚持
 - [https://start.spring.io/](https://start.spring.io/) 方便生成springboot项目
-- [蓝灯 vpn](https://github.com/getlantern/forum/issues/833) 
+- [蓝灯 vpn](https://github.com/getlantern/forum) 输入我的邀请码 XHGTMZ 来获得三个月的蓝灯专业版！ 
 #### 工具语言排行榜
 - [github java项目排行](https://github.com/search?l=Java&p=1&q=stars%3A%3E1&s=stars&type=Repositories)
 - [程序语言热门程度排行榜TIOBE Index](http://www.tiobe.com/tiobe-index/)
