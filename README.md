@@ -5,13 +5,11 @@ github 资源汇总手册,大纲
 - [javabus.cn](http://javabus.cn/) 个人准备用的博客和工具网站,写博客太麻烦很难坚持
 - [https://start.spring.io/](https://start.spring.io/) 方便生成springboot项目
 - [蓝灯 vpn](https://github.com/getlantern/forum/issues/833) 
-
-
-## 前端全栈学习资源
-- [jstraining](https://github.com/java-frame/jstraining)全栈工程师培训材料  前端开发的历史和趋势 / React 技术栈 / Node 应用开发 / 前端工程简介 
-- [Mars](https://github.com/java-frame/Mars) 腾讯移动Web前端知识库,规范,mobile,手脚架
-- [前端拓展文档](https://github.com/JQChan/Coding-Guide) 工具,笔记和资源
-
+#### 工具语言排行榜
+- [github java项目排行](https://github.com/search?l=Java&p=1&q=stars%3A%3E1&s=stars&type=Repositories)
+- [程序语言热门程度排行榜TIOBE Index](http://www.tiobe.com/tiobe-index/)
+- [Google 趋势](https://trends.google.com/trends/) 需要vpn
+- [百度指数](https://index.baidu.com/?tpl=trend&type=0&area=0&time=13&word=java%2Cc%2Cpython%2Cnodejs)
 
 ## 手脚架项目
 - [基于Spring Boot & MyBatis的种子项目](https://github.com/java-frame/spring-boot-api-project-seed) spring boot +mybatis 手脚架项目,简单易用
@@ -25,18 +23,15 @@ github 资源汇总手册,大纲
 - [开发常用参考和学习文档](https://github.com/qibaoguang/Study-Step-by-Step) 譬如:java戏法,Guava,并发
 - [面试参考书](https://github.com/CyC2018/Interview-Notebook) 算法,操作系统,网络,http,sql,java并发,分布式
 - [集思会|kindle图书推送](http://www.kindlepush.com/main) 每天可以免费下载一本,推送2本书
-### 框架类文档
+#### 框架类文档
 - [spring-mybatis 学习笔记](https://github.com/brianway/springmvc-mybatis-learning) 基本环境搭建,使用性强,适合入门学习
 - [MyBatis 相关工具](http://www.mybatis.tk/)
 - [SpringForAll](https://github.com/SpringForAll) spring 系列的中文翻译文
 - [follow 大牛学源码](https://github.com/seaswalker) spring/jdk/tomcat 源码学习笔记
-
-
-## 工具语言排行榜
-- [github java项目排行](https://github.com/search?l=Java&p=1&q=stars%3A%3E1&s=stars&type=Repositories)
-- [程序语言热门程度排行榜TIOBE Index](http://www.tiobe.com/tiobe-index/)
-- [Google 趋势](https://trends.google.com/trends/) 需要vpn
-- [百度指数](https://index.baidu.com/?tpl=trend&type=0&area=0&time=13&word=java%2Cc%2Cpython%2Cnodejs)
+#### 前端全栈学习资源
+- [jstraining](https://github.com/java-frame/jstraining)全栈工程师培训材料  前端开发的历史和趋势 / React 技术栈 / Node 应用开发 / 前端工程简介 
+- [Mars](https://github.com/java-frame/Mars) 腾讯移动Web前端知识库,规范,mobile,手脚架
+- [前端拓展文档](https://github.com/JQChan/Coding-Guide) 工具,笔记和资源
 
 
 ## sdk查找
