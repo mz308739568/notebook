@@ -10,6 +10,7 @@ github 资源汇总手册,大纲
 - [程序语言热门程度排行榜TIOBE Index](http://www.tiobe.com/tiobe-index/)
 - [Google 趋势](https://trends.google.com/trends/) 需要vpn
 - [百度指数](https://index.baidu.com/?tpl=trend&type=0&area=0&time=13&word=java%2Cc%2Cpython%2Cnodejs)
+- [Android百大框架排行榜](https://github.com/ShaunSheep/Android_100_TOP-Projects)okhttp,zxing,fastjson
 
 
 ## 手脚架项目
@@ -29,10 +30,12 @@ github 资源汇总手册,大纲
 - [MyBatis 相关工具](http://www.mybatis.tk/)
 - [SpringForAll](https://github.com/SpringForAll) spring 系列的中文翻译文
 - [follow 大牛学源码](https://github.com/seaswalker) spring/jdk/tomcat 源码学习笔记
+- [redis实现排行榜](https://github.com/zhonglinlin1305/spring-projects)spring 集成redis，spring mvc实现session共享以及 redis排行榜
 #### 前端全栈学习资源
 - [jstraining](https://github.com/java-frame/jstraining)全栈工程师培训材料  前端开发的历史和趋势 / React 技术栈 / Node 应用开发 / 前端工程简介 
 - [Mars](https://github.com/java-frame/Mars) 腾讯移动Web前端知识库,规范,mobile,手脚架
 - [前端拓展文档](https://github.com/JQChan/Coding-Guide) 工具,笔记和资源
+- [JQuerySource](https://github.com/songjinzhong/JQuerySource) jQuery 源码解读，v3.1.1
 
 
 ## sdk查找
