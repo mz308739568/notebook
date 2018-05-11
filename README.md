@@ -11,6 +11,7 @@ github 资源汇总手册,大纲
 - [Google 趋势](https://trends.google.com/trends/) 需要vpn
 - [百度指数](https://index.baidu.com/?tpl=trend&type=0&area=0&time=13&word=java%2Cc%2Cpython%2Cnodejs)
 
+
 ## 手脚架项目
 - [基于Spring Boot & MyBatis的种子项目](https://github.com/java-frame/spring-boot-api-project-seed) spring boot +mybatis 手脚架项目,简单易用
 - [基于mybatis plus](https://github.com/java-frame/mybatisplus-boot-starter) spring boot +mybatis plus 手脚架项目
