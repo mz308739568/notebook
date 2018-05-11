@@ -7,6 +7,12 @@ github 资源汇总手册,大纲
 - [蓝灯 vpn](https://github.com/getlantern/forum/issues/833) 
 
 
+## 前端全栈学习资源
+- [jstraining](https://github.com/java-frame/jstraining)全栈工程师培训材料  前端开发的历史和趋势 / React 技术栈 / Node 应用开发 / 前端工程简介 
+- [Mars](https://github.com/java-frame/Mars) 腾讯移动Web前端知识库,规范,mobile,手脚架
+- [前端拓展文档](https://github.com/JQChan/Coding-Guide) 工具,笔记和资源
+
+
 ## 手脚架项目
 - [基于Spring Boot & MyBatis的种子项目](https://github.com/java-frame/spring-boot-api-project-seed) spring boot +mybatis 手脚架项目,简单易用
 - [基于mybatis plus](https://github.com/java-frame/mybatisplus-boot-starter) spring boot +mybatis plus 手脚架项目
