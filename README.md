@@ -1,5 +1,5 @@
 # notebook
-github 资源汇总手册,大纲
+github 资源汇总手册,大纲  欢迎参与编辑,fork
 
 ## 常用开发工具
 - [javabus.cn](http://javabus.cn/) 个人准备用的博客和工具网站,写博客太麻烦很难坚持
@@ -21,6 +21,7 @@ github 资源汇总手册,大纲
 
 
 ## 文档资源
+- [后端架构师图谱](https://github.com/xingshaocheng/architect-awesome)后端架构师技术图谱
 - [web开发路线图-2018](https://github.com/kamranahmedse/developer-roadmap) 分前端,后端,DevOps
 - [开发常用参考和学习文档](https://github.com/qibaoguang/Study-Step-by-Step) 譬如:java戏法,Guava,并发
 - [面试参考书](https://github.com/CyC2018/Interview-Notebook) 算法,操作系统,网络,http,sql,java并发,分布式
